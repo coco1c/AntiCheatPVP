@@ -1,0 +1,32 @@
+cooldown: 10 # seconds
+messages:
+  no-permission: "&cYou do not have permission to use this command"
+  crystal-speed: "&a{player} Crystal Speed is {speed} ms."
+  anchor-speed: "&a{player} Anchor Speed is {speed} ms."
+  totem-speed: "&a{player} Totem Speed is {speed} ms."
+  no-data: "&cNo data for that player!"
+  invalid-command: "&cInvalid Command Format!"
+  player-not-found: "&cCan't find player with that name!"
+  pop: "&aThe Totem for player is poped!"
+  sus-player: "&c{victim} is suspicious their {type} is {speed} ms! {options}"
+
+auto-mod:
+  sus-player-msg: "&c{victim} You are acting weird, you will be punished!"
+  sus-player-actionbar: "&c{victim} You are acting weird, you will be punished!"
+  sus-player-title: "&cPunishment!"
+  sus-player-sub-title: "&cYou will be punished!"
+  punishment-commands:
+    - "warn {victim} sus"
+    - "cage {victim} sus"
+    - "say hi!"
+buttons:
+  TELEPORT:
+    name: "&a[TELEPORT]"
+    command: "/teleport %p% {victim}"
+  BAN:
+    name: "&a[BAN]"
+    command: "/ban {victim} {type} Hacking"
+sus-speeds:
+  crystal: 200
+  totem: 200
+  anchor: 200

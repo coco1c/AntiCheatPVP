@@ -1,0 +1,5 @@
+name: AntiCheatPVP
+version: 1.0.0
+main: com.coco.mc.LiteMCCrystalAntiCheat
+api-version: '1.17'
+author: coco

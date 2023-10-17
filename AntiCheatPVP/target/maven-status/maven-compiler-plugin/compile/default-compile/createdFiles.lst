@@ -1,0 +1,14 @@
+com\coco\mc\listener\CrystalListener.class
+com\coco\mc\util\HackerUtil.class
+com\coco\mc\command\AnchorSpeedCommand.class
+com\coco\mc\LiteMCCrystalAntiCheat$1.class
+com\coco\mc\data\PlayerData.class
+com\coco\mc\command\PopCommand.class
+com\coco\mc\util\PermUtil.class
+com\coco\mc\LiteMCCrystalAntiCheat.class
+com\coco\mc\command\TotemSpeedCommand.class
+com\coco\mc\LiteMCCrystalAntiCheat$3.class
+com\coco\mc\LiteMCCrystalAntiCheat$2.class
+com\coco\mc\util\ConfigUtil.class
+com\coco\mc\command\CrystalAntiCheatCommand.class
+com\coco\mc\command\CrystalSpeedCommand.class
